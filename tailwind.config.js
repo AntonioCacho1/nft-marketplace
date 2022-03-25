@@ -1,4 +1,6 @@
-module.exports = {
+module.exports = {  
+  purge: [],
+  darkmode:false,
   content: [],
   theme: {
     extend: {},
